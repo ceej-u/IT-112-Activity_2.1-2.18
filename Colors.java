@@ -1,0 +1,17 @@
+//Urbano Christian James/BSIT-NETSEC/1st Year/1-1
+public class Colors 
+{
+    public static void main(String[] args) 
+     {
+        String color1 = "yellow";
+        String color2 = "green";
+        String color3 = "red";
+        String color4 = "blue";
+
+        System.out.println("My Favorite Colors are:");
+        System.out.println(color1);
+        System.out.println(color2);
+        System.out.println(color3);
+        System.out.println(color4);
+    }
+}
